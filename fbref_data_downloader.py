@@ -120,7 +120,7 @@ if __name__ == "__main__":
     'Sevilla': 'ad2be733',
     'Osasuna': '03c57e2b',
     'Getafe': '7848bd64',
-    'Las-Palmas': 'efcc0f5b',
+    'Las-Palmas': '0049d422',
 
     # 🇩🇪 Germany – Bundesliga
     'Bayern-Munich': '054efa67',
@@ -145,50 +145,50 @@ if __name__ == "__main__":
     # 🇫🇷 France – Ligue 1
     'PSG': 'e2d8892c',
     'Marseille': '5725cc7b',
-    'Monaco': 'c802d753',
+    'Monaco': 'fd6114db',
 
     # 🇵🇹 Portugal
-    'Benfica': 'e8e6e29f',
+    'Benfica': '264d7848',
     'Sporting-CP': '2a609ed9',
 
     # 🇳🇱 Netherlands
     'Ajax': '19c3f8c4',
-    'PSV': 'e65c8bee',
+    'PSV': 'e334d850',
 
     # 🇧🇪 Belgium
-    'Club-Brugge': '07549d0d',
-    'Union-Saint-Gilloise': 'a75d5f0b',
+    'Club-Brugge': 'f1e6c5f1',
+    'Union-Saint-Gilloise': 'e14f61a5',
 
     # 🇬🇷 Greece
-    'Olympiacos': '29a9c5f6',
+    'Olympiacos': '2fdb4aef',
 
     # 🇩🇰 / 🇨🇭 / 🇨🇿 / 🇨🇾
-    'Copenhagen': '6135e56d',
-    'Slavia-Praha': 'd80d4b29',
-    'Pafos': 'f6d9e1b8',
+    'Copenhagen': '18050b20',
+    'Slavia-Praha': '111cbfb1',
+    'Pafos': 'cb42669e',
 
     # 🇦🇿 Azerbaijan
     'Qarabag-FK': '44b65410',
 
     # 🇹🇷 Turkey
     'Galatasaray': 'ecd11ca2',
-    'Fenerbahce': '4723d4b7',
-    'Besiktas': '26790c6c',
+    'Fenerbahce': 'ae1e2d7d',
+    'Besiktas': '0f9294bd',
 
     # 🇰🇿 Kazakhstan
     'Kairat': '768fb565',
 
     # 🇭🇺 Hungary
-    'Ferencvaros': 'b301d8d5',
+    'Ferencvaros': '6611f992',
 
     # 🇧🇬 Bulgaria
-    'Ludogorets': 'c8669c51',
+    'Ludogorets': 'Ludogorets',
 
     # 🇸🇰 Slovakia
-    'Slovan-Bratislava': '2f0b111a',
+    'Slovan-Bratislava': 'ae7f2f70',
 
     # 🇲🇩 Moldova
-    'Sheriff-Tiraspol': '5dbe9b87'
+    'Sheriff-Tiraspol': '50995c1e'
 }
 
 
