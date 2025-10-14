@@ -7,6 +7,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import time, os
+import random
 
 class FBRefDownloader:
     def __init__(self, delay_range=(2, 6)):

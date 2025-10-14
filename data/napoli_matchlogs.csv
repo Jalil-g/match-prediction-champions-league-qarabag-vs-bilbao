@@ -1,0 +1,91 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team
+2023-08-19,18:30,Serie A,Matchweek 1,Sat,Away,W,3,1,Frosinone,1.5,0.9,52,15822,Giovanni Di Lorenzo,4-3-3,4-3-3,Matteo Marcenaro,Match Report,,2023-2024,Napoli
+2023-08-27,20:45,Serie A,Matchweek 2,Sun,Home,W,2,0,Sassuolo,3.5,0.2,67,46925,Giovanni Di Lorenzo,4-3-3,4-3-3,Antonio Giua,Match Report,,2023-2024,Napoli
+2023-09-02,20:45,Serie A,Matchweek 3,Sat,Home,L,1,2,Lazio,1.3,0.6,62,42000,Giovanni Di Lorenzo,4-3-3,4-3-3,Andrea Colombo,Match Report,,2023-2024,Napoli
+2023-09-16,20:45,Serie A,Matchweek 4,Sat,Away,D,2,2,Genoa,0.9,1.2,66,33275,Giovanni Di Lorenzo,4-3-3,4-4-2,Michael Fabbri,Match Report,,2023-2024,Napoli
+2023-09-20,20:00,Champions Lg,Group stage,Wed,Away,W,2,1,pt Braga,1.7,1.4,47,18422,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Serdar Gözübüyük,Match Report,,2023-2024,Napoli
+2023-09-24,18:00,Serie A,Matchweek 5,Sun,Away,D,0,0,Bologna,2.1,0.2,51,26621,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Giovanni Ayroldi,Match Report,,2023-2024,Napoli
+2023-09-27,20:45,Serie A,Matchweek 6,Wed,Home,W,4,1,Udinese,3.3,0.7,66,45305,Giovanni Di Lorenzo,4-3-3,3-5-2,Gianluca Manganiello,Match Report,,2023-2024,Napoli
+2023-09-30,15:00,Serie A,Matchweek 7,Sat,Away,W,4,0,Lecce,2.5,0.5,56,27588,Giovanni Di Lorenzo,4-3-3,4-3-3,Luca Pairetto,Match Report,,2023-2024,Napoli
+2023-10-03,21:00,Champions Lg,Group stage,Tue,Home,L,2,3,es Real Madrid,1.9,1.4,50,51649,Giovanni Di Lorenzo,4-3-3,4-3-1-2,Clément Turpin,Match Report,,2023-2024,Napoli
+2023-10-08,20:45,Serie A,Matchweek 8,Sun,Home,L,1,3,Fiorentina,1.8,2.1,54,45000,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Federico La Penna,Match Report,,2023-2024,Napoli
+2023-10-21,15:00,Serie A,Matchweek 9,Sat,Away,W,3,1,Hellas Verona,2.3,1.3,60,20549,Giovanni Di Lorenzo,4-3-3,3-4-3,Rosario Abisso,Match Report,,2023-2024,Napoli
+2023-10-24,21:00,Champions Lg,Group stage,Tue,Away,W,1,0,de Union Berlin,0.2,0.4,59,72062,Giovanni Di Lorenzo,4-3-3,3-1-4-2,Irfan Peljto,Match Report,,2023-2024,Napoli
+2023-10-29,20:45,Serie A,Matchweek 10,Sun,Home,D,2,2,Milan,1.7,2.0,48,54000,Giovanni Di Lorenzo,4-3-3,4-3-3,Daniele Orsato,Match Report,,2023-2024,Napoli
+2023-11-04,15:00,Serie A,Matchweek 11,Sat,Away,W,2,0,Salernitana,1.4,0.3,58,16812,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Antonio Rapuano,Match Report,,2023-2024,Napoli
+2023-11-08,18:45,Champions Lg,Group stage,Wed,Home,D,1,1,de Union Berlin,1.7,1.1,73,42449,Giovanni Di Lorenzo,4-3-3,3-5-2,Danny Makkelie,Match Report,,2023-2024,Napoli
+2023-11-12,12:30,Serie A,Matchweek 12,Sun,Home,L,0,1,Empoli,0.9,0.5,65,50500,Giovanni Di Lorenzo,4-2-3-1,4-3-3,Alessandro Prontera,Match Report,,2023-2024,Napoli
+2023-11-25,18:00,Serie A,Matchweek 13,Sat,Away,W,2,1,Atalanta,2.0,1.0,56,14743,Giovanni Di Lorenzo,4-3-3,3-4-1-2,Maurizio Mariani,Match Report,,2023-2024,Napoli
+2023-11-29,21:00,Champions Lg,Group stage,Wed,Away,L,2,4,es Real Madrid,1.4,2.8,47,73562,Giovanni Di Lorenzo,4-3-3,4-2-2-2,François Letexier,Match Report,,2023-2024,Napoli
+2023-12-03,20:45,Serie A,Matchweek 14,Sun,Home,L,0,3,Inter,0.6,2.7,57,55000,Giovanni Di Lorenzo,4-3-3,3-5-2,Davide Massa,Match Report,,2023-2024,Napoli
+2023-12-08,20:45,Serie A,Matchweek 15,Fri,Away,L,0,1,Juventus,1.2,0.9,66,41400,Giovanni Di Lorenzo,4-3-3,3-5-2,Daniele Orsato,Match Report,,2023-2024,Napoli
+2023-12-12,21:00,Champions Lg,Group stage,Tue,Home,W,2,0,pt Braga,1.4,1.0,50,37841,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Slavko Vinčič,Match Report,,2023-2024,Napoli
+2023-12-16,18:00,Serie A,Matchweek 16,Sat,Home,W,2,1,Cagliari,1.8,1.1,67,45000,Giovanni Di Lorenzo,4-3-3,4-4-2,Matteo Marcenaro,Match Report,,2023-2024,Napoli
+2023-12-19,21:00,Coppa Italia,Round of 16,Tue,Home,L,0,4,Frosinone,,,63,25000,Mário Rui,4-3-3,3-4-3,Rosario Abisso,Match Report,,2023-2024,Napoli
+2023-12-23,20:45,Serie A,Matchweek 17,Sat,Away,L,0,2,Roma,0.7,1.9,59,62141,Giovanni Di Lorenzo,4-3-3,3-5-2,Andrea Colombo,Match Report,,2023-2024,Napoli
+2023-12-29,18:30,Serie A,Matchweek 18,Fri,Home,D,0,0,Monza,2.0,1.1,58,32915,Giovanni Di Lorenzo,4-3-3,3-4-3,Marco Di Bello,Match Report,,2023-2024,Napoli
+2024-01-07,15:00,Serie A,Matchweek 19,Sun,Away,L,0,3,Torino,1.0,2.1,50,23960,Giovanni Di Lorenzo,4-3-3,3-4-1-2,Maurizio Mariani,Match Report,,2023-2024,Napoli
+2024-01-13,15:00,Serie A,Matchweek 20,Sat,Home,W,2,1,Salernitana,2.2,0.1,70,35000,Giovanni Di Lorenzo,4-3-3,3-4-3,Livio Marinelli,Match Report,,2023-2024,Napoli
+2024-01-18,20:00,Supercoppa,Semi-finals,Thu,Home,W,3,0,Fiorentina,,,40,9762,Giovanni Di Lorenzo,3-4-3,4-2-3-1,Federico La Penna,Match Report,,2023-2024,Napoli
+2024-01-22,22:00,Supercoppa,Final,Mon,Home,L,0,1,Inter,,,35,24900,Giovanni Di Lorenzo,3-4-3,3-5-2,Antonio Rapuano,Match Report,,2023-2024,Napoli
+2024-01-28,18:00,Serie A,Matchweek 22,Sun,Away,D,0,0,Lazio,0.2,0.5,61,30000,Giovanni Di Lorenzo,3-4-3,4-3-3,Daniele Orsato,Match Report,,2023-2024,Napoli
+2024-02-04,15:00,Serie A,Matchweek 23,Sun,Home,W,2,1,Hellas Verona,1.2,0.9,68,44000,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Marco Piccinini,Match Report,,2023-2024,Napoli
+2024-02-11,20:45,Serie A,Matchweek 24,Sun,Away,L,0,1,Milan,0.7,0.9,59,73891,Giovanni Di Lorenzo,3-5-1-1,4-2-3-1,Daniele Doveri,Match Report,,2023-2024,Napoli
+2024-02-17,15:00,Serie A,Matchweek 25,Sat,Home,D,1,1,Genoa,1.4,0.3,74,47000,Giovanni Di Lorenzo,4-3-3,3-5-2,Juan Sacchi,Match Report,,2023-2024,Napoli
+2024-02-21,21:00,Champions Lg,Round of 16,Wed,Home,D,1,1,es Barcelona,0.9,0.7,50,49529,Giovanni Di Lorenzo,4-3-3,4-3-3,Felix Zwayer,Match Report,Leg 1 of 2,2023-2024,Napoli
+2024-02-25,15:00,Serie A,Matchweek 26,Sun,Away,D,1,1,Cagliari,1.3,0.7,69,16382,Amir Rrahmani,4-3-3,4-4-1-1,Luca Pairetto,Match Report,,2023-2024,Napoli
+2024-02-28,18:00,Serie A,Matchweek 21,Wed,Away,W,6,1,Sassuolo,2.7,0.3,71,17085,Giovanni Di Lorenzo,4-3-3,4-3-3,Daniele Chiffi,Match Report,,2023-2024,Napoli
+2024-03-03,20:45,Serie A,Matchweek 27,Sun,Home,W,2,1,Juventus,2.1,1.6,70,52000,Giovanni Di Lorenzo,4-3-3,3-5-2,Maurizio Mariani,Match Report,,2023-2024,Napoli
+2024-03-08,20:45,Serie A,Matchweek 28,Fri,Home,D,1,1,Torino,1.6,0.9,63,42000,Giovanni Di Lorenzo,4-3-3,3-4-1-2,Daniele Orsato,Match Report,,2023-2024,Napoli
+2024-03-12,21:00,Champions Lg,Round of 16,Tue,Away,L,1,3,es Barcelona,1.3,2.7,52,50301,Giovanni Di Lorenzo,4-3-3,4-3-3,Danny Makkelie,Match Report,Leg 2 of 2; Barcelona won,2023-2024,Napoli
+2024-03-17,20:45,Serie A,Matchweek 29,Sun,Away,D,1,1,Inter,1.4,1.6,51,71551,Giovanni Di Lorenzo,4-3-3,3-5-2,Federico La Penna,Match Report,,2023-2024,Napoli
+2024-03-30,12:30,Serie A,Matchweek 30,Sat,Home,L,0,3,Atalanta,1.6,0.9,61,50000,Giovanni Di Lorenzo,4-3-3,3-4-1-2,Luca Pairetto,Match Report,,2023-2024,Napoli
+2024-04-07,15:00,Serie A,Matchweek 31,Sun,Away,W,4,2,Monza,2.2,0.4,61,13169,Giovanni Di Lorenzo,4-3-3,3-4-3,Daniele Doveri,Match Report,,2023-2024,Napoli
+2024-04-14,12:30,Serie A,Matchweek 32,Sun,Home,D,2,2,Frosinone,2.2,2.4,66,51177,Giovanni Di Lorenzo,4-3-3,3-4-1-2,Michael Fabbri,Match Report,,2023-2024,Napoli
+2024-04-20,18:00,Serie A,Matchweek 33,Sat,Away,L,0,1,Empoli,0.6,0.9,73,12500,Giovanni Di Lorenzo,4-3-3,3-4-3,Gianluca Manganiello,Match Report,,2023-2024,Napoli
+2024-04-28,18:00,Serie A,Matchweek 34,Sun,Home,D,2,2,Roma,3.0,1.6,49,45000,Giovanni Di Lorenzo,4-3-3,4-3-3,Simone Sozza,Match Report,,2023-2024,Napoli
+2024-05-06,20:45,Serie A,Matchweek 35,Mon,Away,D,1,1,Udinese,0.8,0.7,68,20872,Giovanni Di Lorenzo,4-3-3,3-4-3,Gianluca Aureliano,Match Report,,2023-2024,Napoli
+2024-05-11,18:00,Serie A,Matchweek 36,Sat,Home,L,0,2,Bologna,1.5,1.4,60,43000,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Luca Pairetto,Match Report,,2023-2024,Napoli
+2024-05-17,20:45,Serie A,Matchweek 37,Fri,Away,D,2,2,Fiorentina,1.2,0.6,37,32100,Amir Rrahmani,4-3-3,4-2-3-1,Matteo Marchetti,Match Report,,2023-2024,Napoli
+2024-05-26,18:00,Serie A,Matchweek 38,Sun,Home,D,0,0,Lecce,1.5,0.5,67,41000,Giovanni Di Lorenzo,4-3-3,4-4-1-1,Federico Dionisi,Match Report,,2023-2024,Napoli
+2024-08-10,21:15,Coppa Italia,First round,Sat,Home,D,0 (4),0 (3),Modena,,,74,40000,Giovanni Di Lorenzo,3-4-3,4-5-1,Kevin Bonacina,Match Report,Napoli won on penalty kicks following extra time,2024-2025,Napoli
+2024-08-18,18:30,Serie A,Matchweek 1,Sun,Away,L,0,3,Hellas Verona,1.0,1.7,67,20027,Giovanni Di Lorenzo,3-4-3,3-4-3,Matteo Marchetti,Match Report,,2024-2025,Napoli
+2024-08-25,20:45,Serie A,Matchweek 2,Sun,Home,W,3,0,Bologna,2.5,0.6,39,45000,Giovanni Di Lorenzo,3-4-3,4-3-3,Luca Pairetto,Match Report,,2024-2025,Napoli
+2024-08-31,20:45,Serie A,Matchweek 3,Sat,Home,W,2,1,Parma,2.2,1.7,55,50000,Giovanni Di Lorenzo,3-4-3,4-2-3-1,Paride Tremolada,Match Report,,2024-2025,Napoli
+2024-09-15,18:00,Serie A,Matchweek 4,Sun,Away,W,4,0,Cagliari,1.9,1.0,49,15733,Giovanni Di Lorenzo,3-4-3,3-4-3,Federico La Penna,Match Report,,2024-2025,Napoli
+2024-09-21,18:00,Serie A,Matchweek 5,Sat,Away,D,0,0,Juventus,0.3,0.3,36,40295,Giovanni Di Lorenzo,4-2-3-1,4-2-3-1,Daniele Doveri,Match Report,,2024-2025,Napoli
+2024-09-26,21:00,Coppa Italia,Second round,Thu,Home,W,5,0,Palermo,,,65,50000,Stanislav Lobotka,4-2-3-1,3-5-2,Giuseppe Collu,Match Report,,2024-2025,Napoli
+2024-09-29,20:45,Serie A,Matchweek 6,Sun,Home,W,2,0,Monza,1.1,0.3,49,50000,Giovanni Di Lorenzo,4-3-3,3-4-3,Gianluca Manganiello,Match Report,,2024-2025,Napoli
+2024-10-04,18:30,Serie A,Matchweek 7,Fri,Home,W,3,1,Como,1.9,0.4,41,50000,Giovanni Di Lorenzo,4-2-3-1,4-2-3-1,Ermanno Feliciani,Match Report,,2024-2025,Napoli
+2024-10-20,12:30,Serie A,Matchweek 8,Sun,Away,W,1,0,Empoli,1.3,0.7,50,12000,Giovanni Di Lorenzo,4-3-3,3-1-4-2,Rosario Abisso,Match Report,,2024-2025,Napoli
+2024-10-26,15:00,Serie A,Matchweek 9,Sat,Home,W,1,0,Lecce,2.7,0.7,64,51103,Giovanni Di Lorenzo,4-3-3,4-5-1,Paride Tremolada,Match Report,,2024-2025,Napoli
+2024-10-29,20:45,Serie A,Matchweek 10,Tue,Away,W,2,0,Milan,1.1,0.7,39,73507,Giovanni Di Lorenzo,4-3-3,4-3-3,Andrea Colombo,Match Report,,2024-2025,Napoli
+2024-11-03,12:30,Serie A,Matchweek 11,Sun,Home,L,0,3,Atalanta,0.8,1.2,50,50873,Giovanni Di Lorenzo,4-3-3,3-4-1-2,Daniele Doveri,Match Report,,2024-2025,Napoli
+2024-11-10,20:45,Serie A,Matchweek 12,Sun,Away,D,1,1,Inter,0.7,1.5,47,72951,Giovanni Di Lorenzo,4-3-3,3-5-2,Maurizio Mariani,Match Report,,2024-2025,Napoli
+2024-11-24,18:00,Serie A,Matchweek 13,Sun,Home,W,1,0,Roma,1.4,0.6,63,51164,Giovanni Di Lorenzo,4-3-3,4-4-1-1,Davide Massa,Match Report,,2024-2025,Napoli
+2024-12-01,15:00,Serie A,Matchweek 14,Sun,Away,W,1,0,Torino,1.4,0.3,52,25060,Giovanni Di Lorenzo,4-3-3,3-5-2,Michael Fabbri,Match Report,,2024-2025,Napoli
+2024-12-05,21:00,Coppa Italia,Round of 16,Thu,Away,L,1,3,Lazio,,,49,35000,Juan Jesus,4-2-3-1,4-2-3-1,Luca Pairetto,Match Report,,2024-2025,Napoli
+2024-12-08,20:45,Serie A,Matchweek 15,Sun,Home,L,0,1,Lazio,0.5,0.3,56,50000,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Andrea Colombo,Match Report,,2024-2025,Napoli
+2024-12-14,18:00,Serie A,Matchweek 16,Sat,Away,W,3,1,Udinese,2.2,1.4,70,19981,Giovanni Di Lorenzo,4-3-3,3-5-2,Daniele Doveri,Match Report,,2024-2025,Napoli
+2024-12-21,18:00,Serie A,Matchweek 17,Sat,Away,W,2,1,Genoa,1.2,1.0,62,33435,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Federico La Penna,Match Report,,2024-2025,Napoli
+2024-12-29,15:00,Serie A,Matchweek 18,Sun,Home,W,1,0,Venezia,1.9,0.2,66,51199,Giovanni Di Lorenzo,4-3-3,3-4-1-2,Francesco Cosso,Match Report,,2024-2025,Napoli
+2025-01-04,18:00,Serie A,Matchweek 19,Sat,Away,W,3,0,Fiorentina,1.6,1.0,52,21685,Giovanni Di Lorenzo,4-3-3,3-4-3,Gianluca Manganiello,Match Report,,2024-2025,Napoli
+2025-01-12,20:45,Serie A,Matchweek 20,Sun,Home,W,2,0,Hellas Verona,1.1,0.3,69,48750,Giovanni Di Lorenzo,4-3-3,3-4-1-2,Luca Zufferli,Match Report,,2024-2025,Napoli
+2025-01-18,20:45,Serie A,Matchweek 21,Sat,Away,W,3,2,Atalanta,0.8,0.7,44,22874,Giovanni Di Lorenzo,4-3-3,3-4-1-2,Andrea Colombo,Match Report,,2024-2025,Napoli
+2025-01-25,18:00,Serie A,Matchweek 22,Sat,Home,W,2,1,Juventus,2.3,0.8,49,53589,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Daniele Chiffi,Match Report,,2024-2025,Napoli
+2025-02-02,20:45,Serie A,Matchweek 23,Sun,Away,D,1,1,Roma,0.4,0.5,49,60788,Giovanni Di Lorenzo,4-3-3,4-3-3,Michael Fabbri,Match Report,,2024-2025,Napoli
+2025-02-09,20:45,Serie A,Matchweek 24,Sun,Home,D,1,1,Udinese,1.1,0.8,62,50938,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Livio Marinelli,Match Report,,2024-2025,Napoli
+2025-02-15,18:00,Serie A,Matchweek 25,Sat,Away,D,2,2,Lazio,0.3,0.7,47,42863,Giovanni Di Lorenzo,3-5-2,4-2-3-1,Davide Massa,Match Report,,2024-2025,Napoli
+2025-02-23,12:30,Serie A,Matchweek 26,Sun,Away,L,1,2,Como,1.2,0.7,58,10500,Giovanni Di Lorenzo,3-5-2,4-3-2-1,Gianluca Manganiello,Match Report,,2024-2025,Napoli
+2025-03-01,18:00,Serie A,Matchweek 27,Sat,Home,D,1,1,Inter,1.8,0.3,62,53851,Giovanni Di Lorenzo,4-3-3,3-5-2,Daniele Doveri,Match Report,,2024-2025,Napoli
+2025-03-09,15:00,Serie A,Matchweek 28,Sun,Home,W,2,1,Fiorentina,2.8,0.7,49,51504,Giovanni Di Lorenzo,3-5-2,3-5-1-1,Andrea Colombo,Match Report,,2024-2025,Napoli
+2025-03-16,12:30,Serie A,Matchweek 29,Sun,Away,D,0,0,Venezia,1.7,0.7,57,11440,Giovanni Di Lorenzo,4-2-3-1,3-5-2,Maurizio Mariani,Match Report,,2024-2025,Napoli
+2025-03-30,20:45,Serie A,Matchweek 30,Sun,Home,W,2,1,Milan,1.0,2.6,51,52836,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Simone Sozza,Match Report,,2024-2025,Napoli
+2025-04-07,20:45,Serie A,Matchweek 31,Mon,Away,D,1,1,Bologna,1.2,0.8,39,31974,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Davide Massa,Match Report,,2024-2025,Napoli
+2025-04-14,20:45,Serie A,Matchweek 32,Mon,Home,W,3,0,Empoli,2.0,1.2,63,50898,Matteo Politano,4-3-3,3-4-3,Michael Fabbri,Match Report,,2024-2025,Napoli
+2025-04-19,18:00,Serie A,Matchweek 33,Sat,Away,W,1,0,Monza,1.5,0.9,60,13784,Giovanni Di Lorenzo,4-3-3,3-5-2,Federico La Penna,Match Report,,2024-2025,Napoli
+2025-04-27,20:45,Serie A,Matchweek 34,Sun,Home,W,2,0,Torino,1.1,0.8,58,51144,Giovanni Di Lorenzo,4-3-3,3-5-2,Maurizio Mariani,Match Report,,2024-2025,Napoli
+2025-05-03,18:00,Serie A,Matchweek 35,Sat,Away,W,1,0,Lecce,0.6,0.3,55,28403,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Davide Massa,Match Report,,2024-2025,Napoli
+2025-05-11,20:45,Serie A,Matchweek 36,Sun,Home,D,2,2,Genoa,1.7,0.6,59,51426,Giovanni Di Lorenzo,3-5-2,4-2-3-1,Marco Piccinini,Match Report,,2024-2025,Napoli
+2025-05-18,20:45,Serie A,Matchweek 37,Sun,Away,D,0,0,Parma,0.4,0.4,71,20388,Giovanni Di Lorenzo,4-2-3-1,3-1-4-2,Daniele Doveri,Match Report,,2024-2025,Napoli
+2025-05-23,20:45,Serie A,Matchweek 38,Fri,Home,W,2,0,Cagliari,2.4,0.1,66,53000,Giovanni Di Lorenzo,4-3-3,3-5-2,Federico La Penna,Match Report,,2024-2025,Napoli
