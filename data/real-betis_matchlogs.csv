@@ -1,0 +1,86 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team
+2023-08-13,17:00,La Liga,Matchweek 1,Sun,Home,L,0,2,Osasuna,1.0,1.0,53.0,20269,Iago Aspas,4-4-2,4-3-3,Pablo González,Match Report,,2023-2024,Real-Betis
+2023-08-19,17:00,La Liga,Matchweek 2,Sat,Away,D,1,1,Real Sociedad,1.0,0.7,47.0,30354,Iago Aspas,4-4-2,4-3-3,Miguel Ángel Ortiz Arias,Match Report,,2023-2024,Real-Betis
+2023-08-25,21:30,La Liga,Matchweek 3,Fri,Home,L,0,1,Real Madrid,1.2,1.4,37.0,23057,Iago Aspas,5-3-2,4-1-2-1-2,Isidro Díaz de Mera,Match Report,,2023-2024,Real-Betis
+2023-09-01,22:00,La Liga,Matchweek 4,Fri,Away,W,3,2,Almería,1.5,3.0,37.0,14196,Iago Aspas,5-4-1,4-2-3-1,Ricardo de Burgos,Match Report,,2023-2024,Real-Betis
+2023-09-16,18:30,La Liga,Matchweek 5,Sat,Home,L,0,1,Mallorca,1.3,0.8,60.0,18693,Iago Aspas,3-4-3,5-4-1,José Luis Munuera,Match Report,,2023-2024,Real-Betis
+2023-09-23,18:30,La Liga,Matchweek 6,Sat,Away,L,2,3,Barcelona,1.5,1.6,26.0,43272,Iago Aspas,5-3-2,4-3-3,Mario Melero,Match Report,,2023-2024,Real-Betis
+2023-09-28,19:00,La Liga,Matchweek 7,Thu,Home,D,1,1,Alavés,0.6,2.6,46.0,16852,Iago Aspas,5-3-2,4-2-3-1,César Soto,Match Report,,2023-2024,Real-Betis
+2023-10-02,20:00,La Liga,Matchweek 8,Mon,Away,L,1,2,Las Palmas,1.5,1.7,27.0,22472,Carl Starfelt,5-3-2,4-5-1,Javier Alberola,Match Report,,2023-2024,Real-Betis
+2023-10-08,18:30,La Liga,Matchweek 9,Sun,Home,D,2,2,Getafe,3.1,0.7,74.0,17953,Iago Aspas,4-4-2,4-4-2,José Sánchez,Match Report,,2023-2024,Real-Betis
+2023-10-21,21:00,La Liga,Matchweek 10,Sat,Home,L,0,3,Atlético Madrid,0.9,1.8,36.0,20282,Iago Aspas,4-3-3,3-5-2,Guillermo Cuadra,Match Report,,2023-2024,Real-Betis
+2023-10-27,21:00,La Liga,Matchweek 11,Fri,Away,L,0,1,Girona,0.2,0.6,35.0,12671,Iago Aspas,4-4-2,3-4-3,Isidro Díaz de Mera,Match Report,,2023-2024,Real-Betis
+2023-11-01,15:30,Copa del Rey,First round,Wed,Away,W,4,0,Turégano,,,75.0,2200,Iván Villar,4-4-2,3-1-4-2,Mario Melero,Match Report,,2023-2024,Real-Betis
+2023-11-04,18:30,La Liga,Matchweek 12,Sat,Home,D,1,1,Sevilla,2.1,0.9,39.0,19023,Iago Aspas,4-4-2,4-3-3,Alejandro Hernández,Match Report,,2023-2024,Real-Betis
+2023-11-10,21:00,La Liga,Matchweek 13,Fri,Away,L,3,4,Athletic Club,2.1,4.6,42.0,44435,Iago Aspas,4-4-2,4-2-3-1,Juan Pulido,Match Report,,2023-2024,Real-Betis
+2023-11-25,16:15,La Liga,Matchweek 14,Sat,Away,D,0,0,Valencia,0.8,0.5,45.0,43375,Iago Aspas,4-4-2,4-4-2,César Soto,Match Report,,2023-2024,Real-Betis
+2023-12-04,21:00,La Liga,Matchweek 15,Mon,Home,D,1,1,Cádiz,2.4,0.3,68.0,17302,Iago Aspas,4-4-2,4-4-2,Jesús Gil,Match Report,,2023-2024,Real-Betis
+2023-12-07,21:00,Copa del Rey,Second round,Thu,Away,W,2,1,Sestao,,,48.0,3365,Kevin Vázquez,4-4-2,4-2-3-1,Pablo González,Match Report,,2023-2024,Real-Betis
+2023-12-11,21:00,La Liga,Matchweek 16,Mon,Away,D,0,0,Rayo Vallecano,0.1,1.2,37.0,11796,Kevin Vázquez,4-4-2,4-2-3-1,Víctor García,Match Report,,2023-2024,Real-Betis
+2023-12-16,14:00,La Liga,Matchweek 17,Sat,Home,W,1,0,Granada,1.4,0.5,39.0,18027,Iago Aspas,4-4-2,4-2-3-1,José Sánchez,Match Report,,2023-2024,Real-Betis
+2023-12-20,21:30,La Liga,Matchweek 18,Wed,Away,L,2,3,Villarreal,1.3,2.4,51.0,14687,Kevin Vázquez,4-4-2,4-4-2,César Soto,Match Report,,2023-2024,Real-Betis
+2024-01-03,19:15,La Liga,Matchweek 19,Wed,Home,W,2,1,Betis,2.7,1.4,40.0,21105,Iago Aspas,4-4-2,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,2023-2024,Real-Betis
+2024-01-07,12:00,Copa del Rey,Round of 32,Sun,Away,W,4,2,Amorebieta,,,55.0,1300,Kevin Vázquez,4-2-3-1,4-4-2,José Luis Munuera,Match Report,,2023-2024,Real-Betis
+2024-01-13,16:15,La Liga,Matchweek 20,Sat,Away,D,1,1,Mallorca,0.6,1.8,43.0,21130,Iago Aspas,5-3-2,5-4-1,Víctor García,Match Report,,2023-2024,Real-Betis
+2024-01-17,11:00,Copa del Rey,Round of 16,Wed,Away,W,3,1,Valencia,,,37.0,44456,Kevin Vázquez,4-2-3-1,4-4-2,Ricardo de Burgos,Match Report,,2023-2024,Real-Betis
+2024-01-20,21:00,La Liga,Matchweek 21,Sat,Home,L,0,1,Real Sociedad,0.3,0.8,49.0,20901,Iago Aspas,4-4-2,5-3-2,Jorge Figueroa,Match Report,,2023-2024,Real-Betis
+2024-01-23,21:30,Copa del Rey,Quarter-finals,Tue,Home,L,1,2,Real Sociedad,,,47.0,20903,Kevin Vázquez,4-2-3-1,4-1-3-2,César Soto,Match Report,,2023-2024,Real-Betis
+2024-01-28,14:00,La Liga,Matchweek 22,Sun,Home,L,0,1,Girona,0.6,0.9,40.0,20684,Iago Aspas,3-4-3,4-2-3-1,Mario Melero,Match Report,,2023-2024,Real-Betis
+2024-02-04,16:15,La Liga,Matchweek 23,Sun,Away,W,3,0,Osasuna,1.1,1.1,30.0,20030,Renato Tapia,3-4-3,5-3-2,Javier Alberola,Match Report,,2023-2024,Real-Betis
+2024-02-11,14:00,La Liga,Matchweek 24,Sun,Away,L,2,3,Getafe,1.2,2.1,52.0,11502,Renato Tapia,3-4-3,4-4-2,Alejandro Hernández,Match Report,,2023-2024,Real-Betis
+2024-02-17,18:30,La Liga,Matchweek 25,Sat,Home,L,1,2,Barcelona,0.8,1.5,34.0,23096,Iago Aspas,4-4-2,4-3-3,Juan Pulido,Match Report,,2023-2024,Real-Betis
+2024-02-25,14:00,La Liga,Matchweek 26,Sun,Away,D,2,2,Cádiz,0.7,2.2,35.0,18123,Iago Aspas,4-4-2,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,2023-2024,Real-Betis
+2024-03-01,21:00,La Liga,Matchweek 27,Fri,Home,W,1,0,Almería,1.5,0.1,66.0,18005,Carl Starfelt,4-4-2,4-2-3-1,José Sánchez,Match Report,,2023-2024,Real-Betis
+2024-03-10,18:30,La Liga,Matchweek 28,Sun,Away,L,0,4,Real Madrid,0.8,3.4,38.0,73644,Iago Aspas,5-3-2,4-3-1-2,Mario Melero,Match Report,,2023-2024,Real-Betis
+2024-03-17,14:00,La Liga,Matchweek 29,Sun,Away,W,2,1,Sevilla,1.6,1.7,64.0,36544,Iago Aspas,3-4-3,5-3-2,Francisco Hernández,Match Report,,2023-2024,Real-Betis
+2024-03-31,14:00,La Liga,Matchweek 30,Sun,Home,D,0,0,Rayo Vallecano,0.8,0.6,61.0,21505,Iago Aspas,3-4-3,4-2-3-1,Alejandro Hernández,Match Report,,2023-2024,Real-Betis
+2024-04-12,21:00,La Liga,Matchweek 31,Fri,Away,L,1,2,Betis,1.6,1.2,53.0,48938,Iago Aspas,3-4-3,4-2-3-1,Juan Martínez,Match Report,,2023-2024,Real-Betis
+2024-04-20,14:00,La Liga,Matchweek 32,Sat,Home,W,4,1,Las Palmas,4.0,1.0,32.0,21256,Iago Aspas,3-4-3,4-5-1,Francisco Hernández,Match Report,,2023-2024,Real-Betis
+2024-04-27,18:30,La Liga,Matchweek 33,Sat,Away,L,0,3,Alavés,0.2,2.3,62.0,18039,Iago Aspas,3-4-3,4-2-3-1,Juan Pulido,Match Report,,2023-2024,Real-Betis
+2024-05-05,16:15,La Liga,Matchweek 34,Sun,Home,W,3,2,Villarreal,3.9,0.6,53.0,19548,Iago Aspas,3-4-3,4-4-2,César Soto,Match Report,,2023-2024,Real-Betis
+2024-05-12,16:15,La Liga,Matchweek 35,Sun,Away,L,0,1,Atlético Madrid,0.4,1.4,44.0,63014,Iago Aspas,3-4-3,3-4-3,Jorge Figueroa,Match Report,,2023-2024,Real-Betis
+2024-05-15,22:00,La Liga,Matchweek 36,Wed,Home,W,2,1,Athletic Club,0.7,0.2,53.0,21301,Iván Villar,3-4-3,4-2-3-1,Víctor García,Match Report,,2023-2024,Real-Betis
+2024-05-19,19:00,La Liga,Matchweek 37,Sun,Away,W,2,1,Granada,1.7,1.9,51.0,11473,Iago Aspas,3-5-2,4-3-3,Javier Alberola,Match Report,,2023-2024,Real-Betis
+2024-05-26,16:15,La Liga,Matchweek 38,Sun,Home,D,2,2,Valencia,1.5,2.0,54.0,21878,Iago Aspas,3-4-3,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,2023-2024,Real-Betis
+2024-08-16,19:00,La Liga,Matchweek 1,Fri,Home,W,2,1,Alavés,0.8,1.6,63.0,22477,Iago Aspas,3-4-3,4-2-3-1,Alejandro Quintero,Match Report,,2024-2025,Real-Betis
+2024-08-23,19:00,La Liga,Matchweek 2,Fri,Home,W,3,1,Valencia,1.3,0.9,49.0,23519,Iago Aspas,3-4-3,4-4-2,José Luis Munuera,Match Report,,2024-2025,Real-Betis
+2024-08-26,21:30,La Liga,Matchweek 3,Mon,Away,L,3,4,Villarreal,2.7,3.6,55.0,19651,Iván Villar,3-4-3,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,2024-2025,Real-Betis
+2024-09-01,17:00,La Liga,Matchweek 4,Sun,Away,L,2,3,Osasuna,1.7,0.9,50.0,19908,Iago Aspas,3-4-3,4-1-4-1,Juan Martínez,Match Report,,2024-2025,Real-Betis
+2024-09-15,14:00,La Liga,Matchweek 5,Sun,Home,W,3,1,Valladolid,1.8,0.5,54.0,21670,Iago Aspas,3-4-3,5-3-2,Francisco Hernández,Match Report,,2024-2025,Real-Betis
+2024-09-22,16:15,La Liga,Matchweek 6,Sun,Away,L,1,3,Athletic Club,1.3,0.7,67.0,48737,Iago Aspas,3-4-3,4-2-3-1,Jose Maria Sánchez,Match Report,,2024-2025,Real-Betis
+2024-09-26,21:00,La Liga,Matchweek 7,Thu,Home,L,0,1,Atlético Madrid,1.5,0.6,58.0,21533,Iago Aspas,3-4-3,4-4-2,Víctor García,Match Report,,2024-2025,Real-Betis
+2024-09-29,14:00,La Liga,Matchweek 8,Sun,Home,D,1,1,Girona,0.5,0.8,48.0,21347,Vicente Guaita,3-4-3,4-2-3-1,Ricardo de Burgos,Match Report,,2024-2025,Real-Betis
+2024-10-05,17:30,La Liga,Matchweek 9,Sat,Away,W,1,0,Las Palmas,0.8,1.3,40.0,21482,Iago Aspas,3-4-3,4-2-3-1,Adrián Cordero,Match Report,,2024-2025,Real-Betis
+2024-10-19,21:00,La Liga,Matchweek 10,Sat,Home,L,1,2,Real Madrid,1.8,0.7,47.0,24445,Fran Beltrán,3-4-3,3-4-3,Alejandro Hernández,Match Report,,2024-2025,Real-Betis
+2024-10-27,14:00,La Liga,Matchweek 11,Sun,Away,L,0,3,Leganés,0.9,1.6,61.0,11358,Iago Aspas,3-4-3,3-4-3,Mario Melero,Match Report,,2024-2025,Real-Betis
+2024-10-30,21:00,Copa del Rey,First round,Wed,Away,W,5,1,UD San Pedro,,,,5000,Iván Villar,3-4-3,,Juan Pulido,Match Report,,2024-2025,Real-Betis
+2024-11-04,21:00,La Liga,Matchweek 12,Mon,Home,W,1,0,Getafe,1.9,0.5,57.0,19502,Iago Aspas,3-4-3,4-2-3-1,Jesús Gil,Match Report,,2024-2025,Real-Betis
+2024-11-10,14:00,La Liga,Matchweek 13,Sun,Away,D,2,2,Betis,1.2,1.6,44.0,54015,Iago Aspas,3-4-3,4-4-1-1,Miguel Ángel Ortiz Arias,Match Report,,2024-2025,Real-Betis
+2024-11-23,21:00,La Liga,Matchweek 14,Sat,Home,D,2,2,Barcelona,2.5,1.8,41.0,24573,Iago Aspas,4-4-2,4-2-3-1,César Soto,Match Report,,2024-2025,Real-Betis
+2024-11-30,18:30,La Liga,Matchweek 15,Sat,Away,L,1,3,Espanyol,1.6,0.9,78.0,23792,Iago Aspas,3-5-1-1,4-1-4-1,Jose Maria Sánchez,Match Report,,2024-2025,Real-Betis
+2024-12-03,21:00,Copa del Rey,Second round,Tue,Away,W,7,0,UD Salamanca B,,,48.0,10500,Iván Villar,5-3-2,4-2-3-1,Adrián Cordero,Match Report,,2024-2025,Real-Betis
+2024-12-06,21:00,La Liga,Matchweek 16,Fri,Home,W,2,0,Mallorca,0.9,0.8,50.0,22861,Fran Beltrán,3-4-3,4-2-3-1,Ricardo de Burgos,Match Report,,2024-2025,Real-Betis
+2024-12-14,18:30,La Liga,Matchweek 17,Sat,Away,L,0,1,Sevilla,1.2,0.7,55.0,37295,Iago Aspas,3-4-3,4-3-3,Jesús Gil,Match Report,,2024-2025,Real-Betis
+2024-12-21,16:15,La Liga,Matchweek 18,Sat,Home,W,2,0,Real Sociedad,1.3,0.3,42.0,22956,Fran Beltrán,3-4-3,4-1-4-1,Mateo Busquets,Match Report,,2024-2025,Real-Betis
+2025-01-05,15:30,Copa del Rey,Round of 32,Sun,Away,W,3,2,Racing Sant,,,66.0,20312,Iago Aspas,3-4-3,4-2-3-1,Pablo González,Match Report,,2024-2025,Real-Betis
+2025-01-10,21:00,La Liga,Matchweek 19,Fri,Away,L,1,2,Rayo Vallecano,2.1,0.7,50.0,12955,Fran Beltrán,4-2-3-1,4-4-2,Guillermo Cuadra,Match Report,,2024-2025,Real-Betis
+2025-01-16,21:30,Copa del Rey,Round of 16,Thu,Away,L,2,5,Real Madrid,,,42.0,67674,Iván Villar,5-4-1,4-3-3,José Luis Munuera,Match Report,Required Extra Time,2024-2025,Real-Betis
+2025-01-19,14:00,La Liga,Matchweek 20,Sun,Home,L,1,2,Athletic Club,0.6,1.8,59.0,22279,Fran Beltrán,3-4-3,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,2024-2025,Real-Betis
+2025-01-27,21:00,La Liga,Matchweek 21,Mon,Away,D,1,1,Alavés,0.1,0.9,51.0,13612,Fran Beltrán,3-4-3,4-2-3-1,Francisco Hernández,Match Report,,2024-2025,Real-Betis
+2025-02-02,16:15,La Liga,Matchweek 22,Sun,Away,L,1,2,Valencia,0.4,1.6,54.0,42273,Fran Beltrán,3-4-3,4-2-3-1,Pablo González,Match Report,,2024-2025,Real-Betis
+2025-02-08,14:00,La Liga,Matchweek 23,Sat,Home,W,3,2,Betis,2.2,1.3,55.0,22651,Fran Beltrán,3-4-3,4-2-3-1,Mateo Busquets,Match Report,,2024-2025,Real-Betis
+2025-02-15,18:30,La Liga,Matchweek 24,Sat,Away,D,1,1,Atlético Madrid,1.7,0.6,66.0,64211,Fran Beltrán,3-4-3,4-4-2,Juan Martínez,Match Report,,2024-2025,Real-Betis
+2025-02-21,21:00,La Liga,Matchweek 25,Fri,Home,W,1,0,Osasuna,1.8,1.2,46.0,22005,Vicente Guaita,3-4-3,5-3-2,Jose Maria Sánchez,Match Report,,2024-2025,Real-Betis
+2025-03-01,14:00,La Liga,Matchweek 26,Sat,Away,D,2,2,Girona,1.8,0.7,49.0,11449,Fran Beltrán,3-4-3,3-4-3,Miguel Ángel Ortiz Arias,Match Report,,2024-2025,Real-Betis
+2025-03-08,14:00,La Liga,Matchweek 27,Sat,Home,W,2,1,Leganés,0.9,1.0,56.0,17326,Iago Aspas,3-4-3,5-4-1,Isidro Díaz de Mera,Match Report,,2024-2025,Real-Betis
+2025-03-15,14:00,La Liga,Matchweek 28,Sat,Away,W,1,0,Valladolid,1.5,0.7,61.0,17521,Iago Aspas,3-4-3,4-1-4-1,Víctor García,Match Report,,2024-2025,Real-Betis
+2025-03-31,21:00,La Liga,Matchweek 29,Mon,Home,D,1,1,Las Palmas,1.0,0.3,61.0,18549,Vicente Guaita,3-4-3,5-3-2,Juan Martínez,Match Report,,2024-2025,Real-Betis
+2025-04-05,18:30,La Liga,Matchweek 30,Sat,Away,W,2,1,Mallorca,0.8,0.5,55.0,18291,Iago Aspas,4-5-1,4-2-3-1,Ricardo de Burgos,Match Report,,2024-2025,Real-Betis
+2025-04-12,18:30,La Liga,Matchweek 31,Sat,Home,L,0,2,Espanyol,0.9,1.2,65.0,19801,Iago Aspas,4-1-4-1,4-2-3-1,Mateo Busquets,Match Report,,2024-2025,Real-Betis
+2025-04-19,16:15,La Liga,Matchweek 32,Sat,Away,L,3,4,Barcelona,2.1,2.9,29.0,48569,Fran Beltrán,4-1-4-1,4-3-3,Mario Melero,Match Report,,2024-2025,Real-Betis
+2025-04-23,19:00,La Liga,Matchweek 33,Wed,Home,W,3,0,Villarreal,2.7,0.4,61.0,19324,Fran Beltrán,3-4-3,4-4-2,Javier Alberola,Match Report,,2024-2025,Real-Betis
+2025-05-04,14:00,La Liga,Matchweek 34,Sun,Away,L,2,3,Real Madrid,1.8,2.2,46.0,67661,Fran Beltrán,3-4-3,4-2-3-1,Jesús Gil,Match Report,,2024-2025,Real-Betis
+2025-05-10,16:15,La Liga,Matchweek 35,Sat,Home,W,3,2,Sevilla,0.9,2.3,49.0,20281,Iago Aspas,4-1-4-1,4-4-2,Pablo González,Match Report,,2024-2025,Real-Betis
+2025-05-13,20:00,La Liga,Matchweek 36,Tue,Away,W,1,0,Real Sociedad,1.1,1.7,39.0,25124,Fran Beltrán,3-4-3,4-2-3-1,Víctor García,Match Report,,2024-2025,Real-Betis
+2025-05-18,19:00,La Liga,Matchweek 37,Sun,Home,L,1,2,Rayo Vallecano,2.4,1.2,61.0,21482,Fran Beltrán,4-4-2,4-4-2,Juan Pulido,Match Report,,2024-2025,Real-Betis
+2025-05-24,21:00,La Liga,Matchweek 38,Sat,Away,W,2,1,Getafe,1.5,0.4,65.0,12862,Iago Aspas,3-4-3,4-4-2,Juan Martínez,Match Report,,2024-2025,Real-Betis
