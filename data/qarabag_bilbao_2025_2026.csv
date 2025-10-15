@@ -1,0 +1,134 @@
+Date,Comp,Venue,Result,GF,GA,xG,xGA,Poss,Opponent,Team,Season,GoalDiff,xGDiff,Outcome
+2023-07-11,Champions Lg,Away,W,2.0,1.0,,,,gi Red Imps,Qarabag-FK,2023-2024,1.0,,Win
+2023-07-19,Champions Lg,Home,W,4.0,0.0,,,,gi Red Imps,Qarabag-FK,2023-2024,4.0,,Win
+2023-07-26,Champions Lg,Away,L,2.0,3.0,,,,pl Raków,Qarabag-FK,2023-2024,-1.0,,Loss
+2023-08-02,Champions Lg,Home,D,1.0,1.0,,,,pl Raków,Qarabag-FK,2023-2024,0.0,,Draw
+2023-08-10,Europa Lg,Home,W,2.0,1.0,,,67.0,fi HJK,Qarabag-FK,2023-2024,1.0,,Win
+2023-08-17,Europa Lg,Away,W,2.0,1.0,,,50.0,fi HJK,Qarabag-FK,2023-2024,1.0,,Win
+2023-08-24,Europa Lg,Away,W,2.0,0.0,,,,si Olimpija,Qarabag-FK,2023-2024,2.0,,Win
+2023-08-31,Europa Lg,Home,D,1.0,1.0,,,,si Olimpija,Qarabag-FK,2023-2024,0.0,,Draw
+2023-09-21,Europa Lg,Home,W,1.0,0.0,1.8,0.2,62.0,no Molde,Qarabag-FK,2023-2024,1.0,1.6,Win
+2023-10-05,Europa Lg,Away,W,1.0,0.0,0.9,0.8,52.0,se Häcken,Qarabag-FK,2023-2024,1.0,0.09999999999999998,Win
+2023-10-26,Europa Lg,Away,L,1.0,5.0,0.9,2.5,39.0,de Leverkusen,Qarabag-FK,2023-2024,-4.0,-1.6,Loss
+2023-11-09,Europa Lg,Home,L,0.0,1.0,0.9,1.7,38.0,de Leverkusen,Qarabag-FK,2023-2024,-1.0,-0.7999999999999999,Loss
+2023-11-30,Europa Lg,Away,D,2.0,2.0,1.4,2.9,42.0,no Molde,Qarabag-FK,2023-2024,0.0,-1.5,Draw
+2023-12-14,Europa Lg,Home,W,2.0,1.0,0.6,1.7,44.0,se Häcken,Qarabag-FK,2023-2024,1.0,-1.1,Win
+2024-02-15,Europa Lg,Away,W,4.0,2.0,2.7,2.5,42.0,pt Braga,Qarabag-FK,2023-2024,2.0,0.20000000000000018,Win
+2024-02-22,Europa Lg,Home,L,2.0,3.0,0.8,1.7,41.0,pt Braga,Qarabag-FK,2023-2024,-1.0,-0.8999999999999999,Loss
+2024-03-07,Europa Lg,Home,D,2.0,2.0,1.8,1.3,34.0,de Leverkusen,Qarabag-FK,2023-2024,0.0,0.5,Draw
+2024-03-14,Europa Lg,Away,L,2.0,3.0,1.1,4.1,28.0,de Leverkusen,Qarabag-FK,2023-2024,-1.0,-2.9999999999999996,Loss
+2024-07-23,Champions Lg,Away,W,2.0,0.0,,,,gi Red Imps,Qarabag-FK,2024-2025,2.0,,Win
+2024-07-30,Champions Lg,Home,W,5.0,0.0,,,,gi Red Imps,Qarabag-FK,2024-2025,5.0,,Win
+2024-08-06,Champions Lg,Home,L,1.0,2.0,,,,bg Ludogorets,Qarabag-FK,2024-2025,-1.0,,Loss
+2024-08-13,Champions Lg,Away,W,7.0,2.0,,,,bg Ludogorets,Qarabag-FK,2024-2025,5.0,,Win
+2024-08-20,Champions Lg,Away,L,0.0,3.0,,,57.0,hr Dinamo Zagreb,Qarabag-FK,2024-2025,-3.0,,Loss
+2024-08-28,Champions Lg,Home,L,0.0,2.0,,,58.0,hr Dinamo Zagreb,Qarabag-FK,2024-2025,-2.0,,Loss
+2024-09-26,Europa Lg,Away,L,0.0,3.0,2.2,1.4,51.0,eng Tottenham,Qarabag-FK,2024-2025,-3.0,0.8000000000000003,Loss
+2024-10-03,Europa Lg,Home,L,1.0,2.0,0.9,0.8,55.0,se Malmö,Qarabag-FK,2024-2025,-1.0,0.09999999999999998,Loss
+2024-10-24,Europa Lg,Home,L,0.0,3.0,0.2,2.4,44.0,nl Ajax,Qarabag-FK,2024-2025,-3.0,-2.1999999999999997,Loss
+2024-11-07,Europa Lg,Away,W,2.0,1.0,0.7,2.7,45.0,no Bodø/Glimt,Qarabag-FK,2024-2025,1.0,-2.0,Win
+2024-11-28,Europa Lg,Home,L,1.0,4.0,2.5,2.3,56.0,fr Lyon,Qarabag-FK,2024-2025,-3.0,0.20000000000000018,Loss
+2024-12-12,Europa Lg,Away,L,0.0,1.0,1.0,1.5,69.0,se Elfsborg,Qarabag-FK,2024-2025,-1.0,-0.5,Loss
+2025-01-23,Europa Lg,Home,L,2.0,3.0,1.4,0.7,63.0,ro FCSB,Qarabag-FK,2024-2025,-1.0,0.7,Loss
+2025-01-30,Europa Lg,Away,L,0.0,3.0,0.2,3.7,55.0,gr Olympiacos,Qarabag-FK,2024-2025,-3.0,-3.5,Loss
+2023-08-12,La Liga,Home,L,0.0,2.0,0.4,0.9,46.0,Real Madrid,Athletic-Club-Bilbao,2023-2024,-2.0,-0.5,Loss
+2023-08-19,La Liga,Away,W,2.0,0.0,1.5,1.3,37.0,Osasuna,Athletic-Club-Bilbao,2023-2024,2.0,0.19999999999999996,Win
+2023-08-27,La Liga,Home,W,4.0,2.0,2.9,0.4,48.0,Betis,Athletic-Club-Bilbao,2023-2024,2.0,2.5,Win
+2023-09-03,La Liga,Away,D,0.0,0.0,0.6,0.4,67.0,Mallorca,Athletic-Club-Bilbao,2023-2024,0.0,0.19999999999999996,Draw
+2023-09-16,La Liga,Home,W,3.0,0.0,2.9,0.3,65.0,Cádiz,Athletic-Club-Bilbao,2023-2024,3.0,2.6,Win
+2023-09-22,La Liga,Away,W,2.0,0.0,1.7,1.1,56.0,Alavés,Athletic-Club-Bilbao,2023-2024,2.0,0.5999999999999999,Win
+2023-09-27,La Liga,Home,D,2.0,2.0,0.7,1.4,49.0,Getafe,Athletic-Club-Bilbao,2023-2024,0.0,-0.7,Draw
+2023-09-30,La Liga,Away,L,0.0,3.0,1.8,1.4,49.0,Real Sociedad,Athletic-Club-Bilbao,2023-2024,-3.0,0.40000000000000013,Loss
+2023-10-06,La Liga,Home,W,3.0,0.0,1.9,0.1,59.0,Almería,Athletic-Club-Bilbao,2023-2024,3.0,1.7999999999999998,Win
+2023-10-22,La Liga,Away,L,0.0,1.0,0.4,1.3,38.0,Barcelona,Athletic-Club-Bilbao,2023-2024,-1.0,-0.9,Loss
+2023-10-29,La Liga,Home,D,2.0,2.0,1.9,1.9,57.0,Valencia,Athletic-Club-Bilbao,2023-2024,0.0,0.0,Draw
+2023-11-01,Copa del Rey,Away,W,2.0,1.0,,,75.0,Rubí,Athletic-Club-Bilbao,2023-2024,1.0,,Win
+2023-11-05,La Liga,Away,W,3.0,2.0,2.3,2.1,43.0,Villarreal,Athletic-Club-Bilbao,2023-2024,1.0,0.19999999999999973,Win
+2023-11-10,La Liga,Home,W,4.0,3.0,4.6,2.1,58.0,Celta Vigo,Athletic-Club-Bilbao,2023-2024,1.0,2.4999999999999996,Win
+2023-11-27,La Liga,Away,D,1.0,1.0,1.5,1.3,40.0,Girona,Athletic-Club-Bilbao,2023-2024,0.0,0.19999999999999996,Draw
+2023-12-02,La Liga,Home,W,4.0,0.0,1.3,0.5,51.0,Rayo Vallecano,Athletic-Club-Bilbao,2023-2024,4.0,0.8,Win
+2023-12-07,Copa del Rey,Away,W,3.0,0.0,,,68.0,Cayón,Athletic-Club-Bilbao,2023-2024,3.0,,Win
+2023-12-11,La Liga,Away,D,1.0,1.0,1.1,0.7,52.0,Granada,Athletic-Club-Bilbao,2023-2024,0.0,0.40000000000000013,Draw
+2023-12-16,La Liga,Home,W,2.0,0.0,2.4,0.4,38.0,Atlético Madrid,Athletic-Club-Bilbao,2023-2024,2.0,2.0,Win
+2023-12-20,La Liga,Home,W,1.0,0.0,3.4,0.3,50.0,Las Palmas,Athletic-Club-Bilbao,2023-2024,1.0,3.1,Win
+2024-01-04,La Liga,Away,W,2.0,0.0,1.3,0.7,39.0,Sevilla,Athletic-Club-Bilbao,2023-2024,2.0,0.6000000000000001,Win
+2024-01-07,Copa del Rey,Away,W,3.0,0.0,,,51.0,Eibar,Athletic-Club-Bilbao,2023-2024,3.0,,Win
+2024-01-13,La Liga,Home,W,2.0,1.0,1.6,1.1,49.0,Real Sociedad,Athletic-Club-Bilbao,2023-2024,1.0,0.5,Win
+2024-01-16,Copa del Rey,Home,W,2.0,0.0,,,64.0,Alavés,Athletic-Club-Bilbao,2023-2024,2.0,,Win
+2024-01-20,La Liga,Away,L,0.0,1.0,0.5,0.9,60.0,Valencia,Athletic-Club-Bilbao,2023-2024,-1.0,-0.4,Loss
+2024-01-24,Copa del Rey,Home,W,4.0,2.0,,,39.0,Barcelona,Athletic-Club-Bilbao,2023-2024,2.0,,Win
+2024-01-28,La Liga,Away,D,0.0,0.0,0.2,0.4,57.0,Cádiz,Athletic-Club-Bilbao,2023-2024,0.0,-0.2,Draw
+2024-02-02,La Liga,Home,W,4.0,0.0,1.7,0.4,62.0,Mallorca,Athletic-Club-Bilbao,2023-2024,4.0,1.2999999999999998,Win
+2024-02-07,Copa del Rey,Away,W,1.0,0.0,,,32.0,Atlético Madrid,Athletic-Club-Bilbao,2023-2024,1.0,,Win
+2024-02-12,La Liga,Away,D,0.0,0.0,0.7,0.9,61.0,Almería,Athletic-Club-Bilbao,2023-2024,0.0,-0.20000000000000007,Draw
+2024-02-19,La Liga,Home,W,3.0,2.0,1.8,2.1,31.0,Girona,Athletic-Club-Bilbao,2023-2024,1.0,-0.30000000000000004,Win
+2024-02-25,La Liga,Away,L,1.0,3.0,0.2,1.2,43.0,Betis,Athletic-Club-Bilbao,2023-2024,-2.0,-1.0,Loss
+2024-02-29,Copa del Rey,Home,W,3.0,0.0,,,40.0,Atlético Madrid,Athletic-Club-Bilbao,2023-2024,3.0,,Win
+2024-03-03,La Liga,Home,D,0.0,0.0,0.4,0.7,40.0,Barcelona,Athletic-Club-Bilbao,2023-2024,0.0,-0.29999999999999993,Draw
+2024-03-10,La Liga,Away,W,2.0,0.0,1.1,1.2,30.0,Las Palmas,Athletic-Club-Bilbao,2023-2024,2.0,-0.09999999999999987,Win
+2024-03-16,La Liga,Home,W,2.0,0.0,1.7,1.3,59.0,Alavés,Athletic-Club-Bilbao,2023-2024,2.0,0.3999999999999999,Win
+2024-03-31,La Liga,Away,L,0.0,2.0,0.3,1.1,42.0,Real Madrid,Athletic-Club-Bilbao,2023-2024,-2.0,-0.8,Loss
+2024-04-06,Copa del Rey,Home,D,,,,,69.0,Mallorca,Athletic-Club-Bilbao,2023-2024,,,Loss
+2024-04-14,La Liga,Home,D,1.0,1.0,0.7,2.1,53.0,Villarreal,Athletic-Club-Bilbao,2023-2024,0.0,-1.4000000000000001,Draw
+2024-04-19,La Liga,Home,D,1.0,1.0,1.5,0.2,67.0,Granada,Athletic-Club-Bilbao,2023-2024,0.0,1.3,Draw
+2024-04-27,La Liga,Away,L,1.0,3.0,1.0,0.8,58.0,Atlético Madrid,Athletic-Club-Bilbao,2023-2024,-2.0,0.19999999999999996,Loss
+2024-05-03,La Liga,Away,W,2.0,0.0,0.6,4.5,36.0,Getafe,Athletic-Club-Bilbao,2023-2024,2.0,-3.9,Win
+2024-05-11,La Liga,Home,D,2.0,2.0,1.4,1.0,67.0,Osasuna,Athletic-Club-Bilbao,2023-2024,0.0,0.3999999999999999,Draw
+2024-05-15,La Liga,Away,L,1.0,2.0,0.2,0.7,47.0,Celta Vigo,Athletic-Club-Bilbao,2023-2024,-1.0,-0.49999999999999994,Loss
+2024-05-19,La Liga,Home,W,2.0,0.0,1.6,0.9,53.0,Sevilla,Athletic-Club-Bilbao,2023-2024,2.0,0.7000000000000001,Win
+2024-05-25,La Liga,Away,W,1.0,0.0,0.9,1.1,37.0,Rayo Vallecano,Athletic-Club-Bilbao,2023-2024,1.0,-0.20000000000000007,Win
+2024-08-15,La Liga,Home,D,1.0,1.0,0.3,0.8,68.0,Getafe,Athletic-Club-Bilbao,2024-2025,0.0,-0.5,Draw
+2024-08-24,La Liga,Away,L,1.0,2.0,1.0,1.8,36.0,Barcelona,Athletic-Club-Bilbao,2024-2025,-1.0,-0.8,Loss
+2024-08-28,La Liga,Home,W,1.0,0.0,1.4,0.1,50.0,Valencia,Athletic-Club-Bilbao,2024-2025,1.0,1.2999999999999998,Win
+2024-08-31,La Liga,Home,L,0.0,1.0,0.3,1.7,53.0,Atlético Madrid,Athletic-Club-Bilbao,2024-2025,-1.0,-1.4,Loss
+2024-09-15,La Liga,Away,W,3.0,2.0,1.7,1.4,36.0,Las Palmas,Athletic-Club-Bilbao,2024-2025,1.0,0.30000000000000004,Win
+2024-09-19,La Liga,Away,W,2.0,0.0,1.3,0.9,52.0,Leganés,Athletic-Club-Bilbao,2024-2025,2.0,0.4,Win
+2024-09-22,La Liga,Home,W,3.0,1.0,0.7,1.3,33.0,Celta Vigo,Athletic-Club-Bilbao,2024-2025,2.0,-0.6000000000000001,Win
+2024-09-26,Europa Lg,Away,D,1.0,1.0,1.0,0.5,40.0,it Roma,Athletic-Club-Bilbao,2024-2025,0.0,0.5,Draw
+2024-09-29,La Liga,Home,D,1.0,1.0,2.0,1.1,39.0,Sevilla,Athletic-Club-Bilbao,2024-2025,0.0,0.8999999999999999,Draw
+2024-10-03,Europa Lg,Home,W,2.0,0.0,1.4,0.4,55.0,nl AZ Alkmaar,Athletic-Club-Bilbao,2024-2025,2.0,0.9999999999999999,Win
+2024-10-06,La Liga,Away,L,1.0,2.0,3.1,1.9,34.0,Girona,Athletic-Club-Bilbao,2024-2025,-1.0,1.2000000000000002,Loss
+2024-10-19,La Liga,Home,W,4.0,1.0,1.3,0.2,56.0,Espanyol,Athletic-Club-Bilbao,2024-2025,3.0,1.1,Win
+2024-10-24,Europa Lg,Home,W,1.0,0.0,0.2,1.1,40.0,cz Slavia Prague,Athletic-Club-Bilbao,2024-2025,1.0,-0.9000000000000001,Win
+2024-10-28,La Liga,Away,D,0.0,0.0,0.6,0.5,67.0,Mallorca,Athletic-Club-Bilbao,2024-2025,0.0,0.09999999999999998,Draw
+2024-11-03,La Liga,Home,D,1.0,1.0,4.0,0.9,50.0,Betis,Athletic-Club-Bilbao,2024-2025,0.0,3.1,Draw
+2024-11-07,Europa Lg,Away,W,2.0,1.0,1.6,0.8,59.0,bg Ludogorets,Athletic-Club-Bilbao,2024-2025,1.0,0.8,Win
+2024-11-10,La Liga,Away,D,1.0,1.0,1.2,0.6,66.0,Valladolid,Athletic-Club-Bilbao,2024-2025,0.0,0.6,Draw
+2024-11-24,La Liga,Home,W,1.0,0.0,1.3,0.5,41.0,Real Sociedad,Athletic-Club-Bilbao,2024-2025,1.0,0.8,Win
+2024-11-28,Europa Lg,Home,W,3.0,0.0,1.4,0.3,70.0,se Elfsborg,Athletic-Club-Bilbao,2024-2025,3.0,1.0999999999999999,Win
+2024-12-01,La Liga,Away,W,2.0,1.0,0.7,0.2,52.0,Rayo Vallecano,Athletic-Club-Bilbao,2024-2025,1.0,0.49999999999999994,Win
+2024-12-04,La Liga,Home,W,2.0,1.0,1.8,1.7,37.0,Real Madrid,Athletic-Club-Bilbao,2024-2025,1.0,0.10000000000000009,Win
+2024-12-08,La Liga,Home,W,2.0,0.0,1.2,0.8,42.0,Villarreal,Athletic-Club-Bilbao,2024-2025,2.0,0.3999999999999999,Win
+2024-12-11,Europa Lg,Away,W,2.0,0.0,1.5,0.4,47.0,tr Fenerbahçe,Athletic-Club-Bilbao,2024-2025,2.0,1.1,Win
+2024-12-15,La Liga,Away,D,1.0,1.0,0.7,0.9,48.0,Alavés,Athletic-Club-Bilbao,2024-2025,0.0,-0.20000000000000007,Draw
+2024-12-21,La Liga,Away,W,2.0,1.0,1.2,0.6,47.0,Osasuna,Athletic-Club-Bilbao,2024-2025,1.0,0.6,Win
+2025-01-04,Copa del Rey,Away,D,,,,,62.0,UD Logroñés,Athletic-Club-Bilbao,2024-2025,,,Loss
+2025-01-08,Supercopa de España,Neutral,L,0.0,2.0,,,44.0,Barcelona,Athletic-Club-Bilbao,2024-2025,-2.0,,Loss
+2025-01-16,Copa del Rey,Home,L,2.0,3.0,,,60.0,Osasuna,Athletic-Club-Bilbao,2024-2025,-1.0,,Loss
+2025-01-19,La Liga,Away,W,2.0,1.0,1.8,0.6,41.0,Celta Vigo,Athletic-Club-Bilbao,2024-2025,1.0,1.2000000000000002,Win
+2025-01-22,Europa Lg,Away,L,1.0,4.0,1.0,2.8,53.0,tr Beşiktaş,Athletic-Club-Bilbao,2024-2025,-3.0,-1.7999999999999998,Loss
+2025-01-26,La Liga,Home,D,0.0,0.0,2.1,1.0,68.0,Leganés,Athletic-Club-Bilbao,2024-2025,0.0,1.1,Draw
+2025-01-30,Europa Lg,Home,W,3.0,1.0,2.2,0.6,57.0,cz Viktoria Plzeň,Athletic-Club-Bilbao,2024-2025,2.0,1.6,Win
+2025-02-02,La Liga,Away,D,2.0,2.0,1.4,1.1,47.0,Betis,Athletic-Club-Bilbao,2024-2025,0.0,0.2999999999999998,Draw
+2025-02-08,La Liga,Home,W,3.0,0.0,3.6,0.1,45.0,Girona,Athletic-Club-Bilbao,2024-2025,3.0,3.5,Win
+2025-02-16,La Liga,Away,D,1.0,1.0,1.0,0.8,61.0,Espanyol,Athletic-Club-Bilbao,2024-2025,0.0,0.19999999999999996,Draw
+2025-02-23,La Liga,Home,W,7.0,1.0,3.8,0.5,57.0,Valladolid,Athletic-Club-Bilbao,2024-2025,6.0,3.3,Win
+2025-03-01,La Liga,Away,L,0.0,1.0,1.1,2.2,50.0,Atlético Madrid,Athletic-Club-Bilbao,2024-2025,-1.0,-1.1,Loss
+2025-03-06,Europa Lg,Away,L,1.0,2.0,1.2,1.2,42.0,it Roma,Athletic-Club-Bilbao,2024-2025,-1.0,0.0,Loss
+2025-03-09,La Liga,Home,D,1.0,1.0,0.7,0.5,55.0,Mallorca,Athletic-Club-Bilbao,2024-2025,0.0,0.19999999999999996,Draw
+2025-03-13,Europa Lg,Home,W,3.0,1.0,1.8,1.1,69.0,it Roma,Athletic-Club-Bilbao,2024-2025,2.0,0.7,Win
+2025-03-16,La Liga,Away,W,1.0,0.0,1.3,0.5,39.0,Sevilla,Athletic-Club-Bilbao,2024-2025,1.0,0.8,Win
+2025-03-30,La Liga,Home,D,0.0,0.0,0.7,0.4,61.0,Osasuna,Athletic-Club-Bilbao,2024-2025,0.0,0.29999999999999993,Draw
+2025-04-06,La Liga,Away,D,0.0,0.0,0.8,2.1,44.0,Villarreal,Athletic-Club-Bilbao,2024-2025,0.0,-1.3,Draw
+2025-04-10,Europa Lg,Away,D,0.0,0.0,2.3,0.2,71.0,sct Rangers,Athletic-Club-Bilbao,2024-2025,0.0,2.0999999999999996,Draw
+2025-04-13,La Liga,Home,W,3.0,1.0,1.6,1.6,54.0,Rayo Vallecano,Athletic-Club-Bilbao,2024-2025,2.0,0.0,Win
+2025-04-17,Europa Lg,Home,W,2.0,0.0,2.6,0.5,56.0,sct Rangers,Athletic-Club-Bilbao,2024-2025,2.0,2.1,Win
+2025-04-20,La Liga,Away,L,0.0,1.0,0.2,1.5,27.0,Real Madrid,Athletic-Club-Bilbao,2024-2025,-1.0,-1.3,Loss
+2025-04-23,La Liga,Home,W,1.0,0.0,2.1,1.0,50.0,Las Palmas,Athletic-Club-Bilbao,2024-2025,1.0,1.1,Win
+2025-05-01,Europa Lg,Home,L,0.0,3.0,1.1,2.5,28.0,eng Manchester Utd,Athletic-Club-Bilbao,2024-2025,-3.0,-1.4,Loss
+2025-05-04,La Liga,Away,D,0.0,0.0,0.2,0.9,41.0,Real Sociedad,Athletic-Club-Bilbao,2024-2025,0.0,-0.7,Draw
+2025-05-08,Europa Lg,Away,L,1.0,4.0,0.8,2.2,49.0,eng Manchester Utd,Athletic-Club-Bilbao,2024-2025,-3.0,-1.4000000000000001,Loss
+2025-05-11,La Liga,Home,W,1.0,0.0,1.3,0.4,59.0,Alavés,Athletic-Club-Bilbao,2024-2025,1.0,0.9,Win
+2025-05-15,La Liga,Away,W,2.0,0.0,1.2,0.4,65.0,Getafe,Athletic-Club-Bilbao,2024-2025,2.0,0.7999999999999999,Win
+2025-05-18,La Liga,Away,W,1.0,0.0,1.1,0.4,45.0,Valencia,Athletic-Club-Bilbao,2024-2025,1.0,0.7000000000000001,Win
+2025-05-25,La Liga,Home,L,0.0,3.0,1.2,3.5,25.0,Barcelona,Athletic-Club-Bilbao,2024-2025,-3.0,-2.3,Loss
